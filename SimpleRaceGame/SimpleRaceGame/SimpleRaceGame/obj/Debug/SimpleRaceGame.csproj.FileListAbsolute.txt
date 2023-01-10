@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SimpleRaceGame\SimpleRaceGame\bin\Debug\SimpleRaceGame.exe.config
+C:\Users\User\source\repos\SimpleRaceGame\SimpleRaceGame\bin\Debug\SimpleRaceGame.exe
+C:\Users\User\source\repos\SimpleRaceGame\SimpleRaceGame\bin\Debug\SimpleRaceGame.pdb
+C:\Users\User\source\repos\SimpleRaceGame\SimpleRaceGame\obj\Debug\SimpleRaceGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SimpleRaceGame\SimpleRaceGame\obj\Debug\SimpleRaceGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SimpleRaceGame\SimpleRaceGame\obj\Debug\SimpleRaceGame.Properties.Resources.resources
+C:\Users\User\source\repos\SimpleRaceGame\SimpleRaceGame\obj\Debug\SimpleRaceGame.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SimpleRaceGame\SimpleRaceGame\obj\Debug\SimpleRaceGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleRaceGame\SimpleRaceGame\obj\Debug\SimpleRaceGame.exe
+C:\Users\User\source\repos\SimpleRaceGame\SimpleRaceGame\obj\Debug\SimpleRaceGame.pdb
+C:\Users\User\source\repos\SimpleRaceGame\SimpleRaceGame\obj\Debug\SimpleRaceGame.SimpleRaceGameGUI.resources

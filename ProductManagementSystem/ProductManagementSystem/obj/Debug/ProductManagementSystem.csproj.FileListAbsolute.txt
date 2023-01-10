@@ -1,0 +1,12 @@
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.exe.config
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.exe
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\bin\Debug\ProductManagementSystem.pdb
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.csproj.AssemblyReference.cache
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.Home.resources
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.Properties.Resources.resources
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.csproj.GenerateResource.cache
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.csproj.CoreCompileInputs.cache
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.exe
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.pdb
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.Main.resources
+D:\projects\c#\ProductManagementSystem\ProductManagementSystem\obj\Debug\ProductManagementSystem.Order.resources

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SimpleWarGame\SimpleWarGame\obj\Debug\SimpleWarGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SimpleWarGame\SimpleWarGame\obj\Debug\SimpleWarGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\SimpleWarGame\SimpleWarGame\obj\Debug\SimpleWarGame.Properties.Resources.resources
+C:\Users\User\source\repos\SimpleWarGame\SimpleWarGame\obj\Debug\SimpleWarGame.WarGameGUI.resources
+C:\Users\User\source\repos\SimpleWarGame\SimpleWarGame\obj\Debug\SimpleWarGame.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SimpleWarGame\SimpleWarGame\obj\Debug\SimpleWarGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SimpleWarGame\SimpleWarGame\bin\Debug\SimpleWarGame.exe.config
+C:\Users\User\source\repos\SimpleWarGame\SimpleWarGame\bin\Debug\SimpleWarGame.exe
+C:\Users\User\source\repos\SimpleWarGame\SimpleWarGame\bin\Debug\SimpleWarGame.pdb
+C:\Users\User\source\repos\SimpleWarGame\SimpleWarGame\obj\Debug\SimpleWarGame.exe
+C:\Users\User\source\repos\SimpleWarGame\SimpleWarGame\obj\Debug\SimpleWarGame.pdb
